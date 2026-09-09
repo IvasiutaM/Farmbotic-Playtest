@@ -46,7 +46,6 @@ The following areas are included in the testing process, depending on their avai
 * Automation
 * Robots
 * Mining
-* Combat
 * Missions and progression
 * NPC interactions
 
