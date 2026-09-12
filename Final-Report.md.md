@@ -271,10 +271,6 @@ The player had the required materials in the inventory, but the mission counter 
 
 For example, the inventory contained **5 iron screws**, while the corresponding mission counter displayed **0**.
 
-![Player inventory](image-3.png)
-
-![Mission counter](image-4.png)
-
 Because the mission did not recognize the available materials, progression could not continue.
 
 ### Impact
