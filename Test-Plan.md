@@ -46,7 +46,6 @@ The following areas are included in the testing process, depending on their avai
 * Automation
 * Robots
 * Mining
-* Combat
 * Missions and progression
 * NPC interactions
 
@@ -222,7 +221,6 @@ Testing will be organized into the following areas:
 | Construction  | Building and placement systems                       |
 | Exploration   | World exploration and environmental interactions     |
 | Mining        | Mining-related mechanics and interactions            |
-| Combat        | Combat mechanics, when available                     |
 | Inventory     | Item management and resource handling                |
 | NPCs          | NPC interactions and related systems                 |
 | Missions      | Objectives, progression and task completion          |
